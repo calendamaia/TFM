@@ -1868,7 +1868,7 @@ if __name__ == '__main__':
     print("Presione Ctrl+C para detener el servidor")
     print("="*60)
     
-    app.run_server(
+    app.run(
         debug=True, 
         host='0.0.0.0', 
         port=8050,

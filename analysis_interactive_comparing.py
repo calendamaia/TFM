@@ -1111,4 +1111,4 @@ def generate_advantage_table(df, metric):
 
 # Ejecutar la aplicación
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
