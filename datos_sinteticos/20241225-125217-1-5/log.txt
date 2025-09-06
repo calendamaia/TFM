@@ -1,1 +1,1024 @@
- 
+2024-12-25 12:52:17 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-1-5
+2024-12-25 12:52:17 - INFO - 
+Procesando lote 1/20
+2024-12-25 12:52:17 - INFO - 
+Generando escenario 1:
+2024-12-25 12:52:17 - INFO - num_students: 5
+2024-12-25 12:52:17 - INFO - num_professors: 5
+2024-12-25 12:52:17 - INFO - num_buildings: 1
+2024-12-25 12:52:17 - INFO - num_aulas: 1
+2024-12-25 12:52:17 - INFO - availability_rate: 0.4
+2024-12-25 12:52:17 - INFO - compatibility_rate: 0.3
+2024-12-25 12:52:18 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-001.xlsx
+2024-12-25 12:52:18 - INFO - 
+Generando escenario 2:
+2024-12-25 12:52:18 - INFO - num_students: 7
+2024-12-25 12:52:18 - INFO - num_professors: 5
+2024-12-25 12:52:18 - INFO - num_buildings: 1
+2024-12-25 12:52:18 - INFO - num_aulas: 1
+2024-12-25 12:52:18 - INFO - availability_rate: 0.405
+2024-12-25 12:52:18 - INFO - compatibility_rate: 0.305
+2024-12-25 12:52:18 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-002.xlsx
+2024-12-25 12:52:18 - INFO - 
+Generando escenario 3:
+2024-12-25 12:52:18 - INFO - num_students: 9
+2024-12-25 12:52:18 - INFO - num_professors: 5
+2024-12-25 12:52:18 - INFO - num_buildings: 1
+2024-12-25 12:52:18 - INFO - num_aulas: 1
+2024-12-25 12:52:18 - INFO - availability_rate: 0.41000000000000003
+2024-12-25 12:52:18 - INFO - compatibility_rate: 0.31
+2024-12-25 12:52:18 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-003.xlsx
+2024-12-25 12:52:18 - INFO - 
+Generando escenario 4:
+2024-12-25 12:52:18 - INFO - num_students: 11
+2024-12-25 12:52:18 - INFO - num_professors: 5
+2024-12-25 12:52:18 - INFO - num_buildings: 1
+2024-12-25 12:52:18 - INFO - num_aulas: 1
+2024-12-25 12:52:18 - INFO - availability_rate: 0.41500000000000004
+2024-12-25 12:52:18 - INFO - compatibility_rate: 0.315
+2024-12-25 12:52:18 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-004.xlsx
+2024-12-25 12:52:18 - INFO - 
+Generando escenario 5:
+2024-12-25 12:52:18 - INFO - num_students: 13
+2024-12-25 12:52:18 - INFO - num_professors: 6
+2024-12-25 12:52:18 - INFO - num_buildings: 1
+2024-12-25 12:52:18 - INFO - num_aulas: 1
+2024-12-25 12:52:18 - INFO - availability_rate: 0.42000000000000004
+2024-12-25 12:52:18 - INFO - compatibility_rate: 0.32
+2024-12-25 12:52:18 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-005.xlsx
+2024-12-25 12:52:18 - INFO - 
+Lote 1 completado
+2024-12-25 12:52:18 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-1-5
+2024-12-25 12:52:18 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-6-10
+2024-12-25 12:52:18 - INFO - 
+Procesando lote 2/20
+2024-12-25 12:52:18 - INFO - 
+Generando escenario 6:
+2024-12-25 12:52:18 - INFO - num_students: 15
+2024-12-25 12:52:18 - INFO - num_professors: 7
+2024-12-25 12:52:18 - INFO - num_buildings: 1
+2024-12-25 12:52:18 - INFO - num_aulas: 1
+2024-12-25 12:52:18 - INFO - availability_rate: 0.42500000000000004
+2024-12-25 12:52:18 - INFO - compatibility_rate: 0.325
+2024-12-25 12:52:19 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-006.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 7:
+2024-12-25 12:52:19 - INFO - num_students: 17
+2024-12-25 12:52:19 - INFO - num_professors: 8
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.43000000000000005
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.32999999999999996
+2024-12-25 12:52:19 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-007.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 8:
+2024-12-25 12:52:19 - INFO - num_students: 19
+2024-12-25 12:52:19 - INFO - num_professors: 9
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.43500000000000005
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.33499999999999996
+2024-12-25 12:52:19 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-008.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 9:
+2024-12-25 12:52:19 - INFO - num_students: 21
+2024-12-25 12:52:19 - INFO - num_professors: 10
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.44
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.33999999999999997
+2024-12-25 12:52:19 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-009.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 10:
+2024-12-25 12:52:19 - INFO - num_students: 23
+2024-12-25 12:52:19 - INFO - num_professors: 11
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.445
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.345
+2024-12-25 12:52:19 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-010.xlsx
+2024-12-25 12:52:19 - INFO - 
+Lote 2 completado
+2024-12-25 12:52:19 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-6-10
+2024-12-25 12:52:19 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-11-15
+2024-12-25 12:52:19 - INFO - 
+Procesando lote 3/20
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 11:
+2024-12-25 12:52:19 - INFO - num_students: 25
+2024-12-25 12:52:19 - INFO - num_professors: 12
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.45
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.35
+2024-12-25 12:52:19 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-011.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 12:
+2024-12-25 12:52:19 - INFO - num_students: 27
+2024-12-25 12:52:19 - INFO - num_professors: 13
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.455
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.355
+2024-12-25 12:52:19 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-012.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 13:
+2024-12-25 12:52:19 - INFO - num_students: 29
+2024-12-25 12:52:19 - INFO - num_professors: 14
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.46
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.36
+2024-12-25 12:52:19 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-013.xlsx
+2024-12-25 12:52:19 - INFO - 
+Generando escenario 14:
+2024-12-25 12:52:19 - INFO - num_students: 31
+2024-12-25 12:52:19 - INFO - num_professors: 15
+2024-12-25 12:52:19 - INFO - num_buildings: 1
+2024-12-25 12:52:19 - INFO - num_aulas: 2
+2024-12-25 12:52:19 - INFO - availability_rate: 0.465
+2024-12-25 12:52:19 - INFO - compatibility_rate: 0.365
+2024-12-25 12:52:20 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-014.xlsx
+2024-12-25 12:52:20 - INFO - 
+Generando escenario 15:
+2024-12-25 12:52:20 - INFO - num_students: 33
+2024-12-25 12:52:20 - INFO - num_professors: 16
+2024-12-25 12:52:20 - INFO - num_buildings: 1
+2024-12-25 12:52:20 - INFO - num_aulas: 3
+2024-12-25 12:52:20 - INFO - availability_rate: 0.47000000000000003
+2024-12-25 12:52:20 - INFO - compatibility_rate: 0.37
+2024-12-25 12:52:20 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-015.xlsx
+2024-12-25 12:52:20 - INFO - 
+Lote 3 completado
+2024-12-25 12:52:20 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-11-15
+2024-12-25 12:52:20 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-16-20
+2024-12-25 12:52:20 - INFO - 
+Procesando lote 4/20
+2024-12-25 12:52:20 - INFO - 
+Generando escenario 16:
+2024-12-25 12:52:20 - INFO - num_students: 35
+2024-12-25 12:52:20 - INFO - num_professors: 17
+2024-12-25 12:52:20 - INFO - num_buildings: 1
+2024-12-25 12:52:20 - INFO - num_aulas: 3
+2024-12-25 12:52:20 - INFO - availability_rate: 0.47500000000000003
+2024-12-25 12:52:20 - INFO - compatibility_rate: 0.375
+2024-12-25 12:52:20 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-016.xlsx
+2024-12-25 12:52:20 - INFO - 
+Generando escenario 17:
+2024-12-25 12:52:20 - INFO - num_students: 37
+2024-12-25 12:52:20 - INFO - num_professors: 18
+2024-12-25 12:52:20 - INFO - num_buildings: 1
+2024-12-25 12:52:20 - INFO - num_aulas: 3
+2024-12-25 12:52:20 - INFO - availability_rate: 0.48000000000000004
+2024-12-25 12:52:20 - INFO - compatibility_rate: 0.38
+2024-12-25 12:52:20 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-017.xlsx
+2024-12-25 12:52:20 - INFO - 
+Generando escenario 18:
+2024-12-25 12:52:20 - INFO - num_students: 39
+2024-12-25 12:52:20 - INFO - num_professors: 19
+2024-12-25 12:52:20 - INFO - num_buildings: 1
+2024-12-25 12:52:20 - INFO - num_aulas: 3
+2024-12-25 12:52:20 - INFO - availability_rate: 0.48500000000000004
+2024-12-25 12:52:20 - INFO - compatibility_rate: 0.385
+2024-12-25 12:52:20 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-018.xlsx
+2024-12-25 12:52:20 - INFO - 
+Generando escenario 19:
+2024-12-25 12:52:20 - INFO - num_students: 41
+2024-12-25 12:52:20 - INFO - num_professors: 20
+2024-12-25 12:52:20 - INFO - num_buildings: 1
+2024-12-25 12:52:20 - INFO - num_aulas: 3
+2024-12-25 12:52:20 - INFO - availability_rate: 0.49
+2024-12-25 12:52:20 - INFO - compatibility_rate: 0.39
+2024-12-25 12:52:21 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-019.xlsx
+2024-12-25 12:52:21 - INFO - 
+Generando escenario 20:
+2024-12-25 12:52:21 - INFO - num_students: 43
+2024-12-25 12:52:21 - INFO - num_professors: 21
+2024-12-25 12:52:21 - INFO - num_buildings: 1
+2024-12-25 12:52:21 - INFO - num_aulas: 3
+2024-12-25 12:52:21 - INFO - availability_rate: 0.495
+2024-12-25 12:52:21 - INFO - compatibility_rate: 0.395
+2024-12-25 12:52:21 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-020.xlsx
+2024-12-25 12:52:21 - INFO - 
+Lote 4 completado
+2024-12-25 12:52:21 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-16-20
+2024-12-25 12:52:21 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-21-25
+2024-12-25 12:52:21 - INFO - 
+Procesando lote 5/20
+2024-12-25 12:52:21 - INFO - 
+Generando escenario 21:
+2024-12-25 12:52:21 - INFO - num_students: 45
+2024-12-25 12:52:21 - INFO - num_professors: 22
+2024-12-25 12:52:21 - INFO - num_buildings: 1
+2024-12-25 12:52:21 - INFO - num_aulas: 3
+2024-12-25 12:52:21 - INFO - availability_rate: 0.5
+2024-12-25 12:52:21 - INFO - compatibility_rate: 0.4
+2024-12-25 12:52:21 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-021.xlsx
+2024-12-25 12:52:21 - INFO - 
+Generando escenario 22:
+2024-12-25 12:52:21 - INFO - num_students: 47
+2024-12-25 12:52:21 - INFO - num_professors: 23
+2024-12-25 12:52:21 - INFO - num_buildings: 1
+2024-12-25 12:52:21 - INFO - num_aulas: 3
+2024-12-25 12:52:21 - INFO - availability_rate: 0.505
+2024-12-25 12:52:21 - INFO - compatibility_rate: 0.40499999999999997
+2024-12-25 12:52:21 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-022.xlsx
+2024-12-25 12:52:21 - INFO - 
+Generando escenario 23:
+2024-12-25 12:52:21 - INFO - num_students: 49
+2024-12-25 12:52:21 - INFO - num_professors: 24
+2024-12-25 12:52:21 - INFO - num_buildings: 1
+2024-12-25 12:52:21 - INFO - num_aulas: 4
+2024-12-25 12:52:21 - INFO - availability_rate: 0.51
+2024-12-25 12:52:21 - INFO - compatibility_rate: 0.41
+2024-12-25 12:52:21 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-023.xlsx
+2024-12-25 12:52:21 - INFO - 
+Generando escenario 24:
+2024-12-25 12:52:21 - INFO - num_students: 51
+2024-12-25 12:52:21 - INFO - num_professors: 25
+2024-12-25 12:52:21 - INFO - num_buildings: 1
+2024-12-25 12:52:21 - INFO - num_aulas: 4
+2024-12-25 12:52:21 - INFO - availability_rate: 0.515
+2024-12-25 12:52:21 - INFO - compatibility_rate: 0.415
+2024-12-25 12:52:22 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-024.xlsx
+2024-12-25 12:52:22 - INFO - 
+Generando escenario 25:
+2024-12-25 12:52:22 - INFO - num_students: 53
+2024-12-25 12:52:22 - INFO - num_professors: 26
+2024-12-25 12:52:22 - INFO - num_buildings: 1
+2024-12-25 12:52:22 - INFO - num_aulas: 4
+2024-12-25 12:52:22 - INFO - availability_rate: 0.52
+2024-12-25 12:52:22 - INFO - compatibility_rate: 0.42
+2024-12-25 12:52:22 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-025.xlsx
+2024-12-25 12:52:22 - INFO - 
+Lote 5 completado
+2024-12-25 12:52:22 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-21-25
+2024-12-25 12:52:22 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-26-30
+2024-12-25 12:52:22 - INFO - 
+Procesando lote 6/20
+2024-12-25 12:52:22 - INFO - 
+Generando escenario 26:
+2024-12-25 12:52:22 - INFO - num_students: 55
+2024-12-25 12:52:22 - INFO - num_professors: 27
+2024-12-25 12:52:22 - INFO - num_buildings: 1
+2024-12-25 12:52:22 - INFO - num_aulas: 4
+2024-12-25 12:52:22 - INFO - availability_rate: 0.525
+2024-12-25 12:52:22 - INFO - compatibility_rate: 0.425
+2024-12-25 12:52:22 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-026.xlsx
+2024-12-25 12:52:22 - INFO - 
+Generando escenario 27:
+2024-12-25 12:52:22 - INFO - num_students: 57
+2024-12-25 12:52:22 - INFO - num_professors: 28
+2024-12-25 12:52:22 - INFO - num_buildings: 1
+2024-12-25 12:52:22 - INFO - num_aulas: 4
+2024-12-25 12:52:22 - INFO - availability_rate: 0.53
+2024-12-25 12:52:22 - INFO - compatibility_rate: 0.43
+2024-12-25 12:52:22 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-027.xlsx
+2024-12-25 12:52:22 - INFO - 
+Generando escenario 28:
+2024-12-25 12:52:22 - INFO - num_students: 59
+2024-12-25 12:52:22 - INFO - num_professors: 29
+2024-12-25 12:52:22 - INFO - num_buildings: 1
+2024-12-25 12:52:22 - INFO - num_aulas: 4
+2024-12-25 12:52:22 - INFO - availability_rate: 0.535
+2024-12-25 12:52:22 - INFO - compatibility_rate: 0.435
+2024-12-25 12:52:23 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-028.xlsx
+2024-12-25 12:52:23 - INFO - 
+Generando escenario 29:
+2024-12-25 12:52:23 - INFO - num_students: 61
+2024-12-25 12:52:23 - INFO - num_professors: 30
+2024-12-25 12:52:23 - INFO - num_buildings: 1
+2024-12-25 12:52:23 - INFO - num_aulas: 4
+2024-12-25 12:52:23 - INFO - availability_rate: 0.54
+2024-12-25 12:52:23 - INFO - compatibility_rate: 0.44
+2024-12-25 12:52:23 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-029.xlsx
+2024-12-25 12:52:23 - INFO - 
+Generando escenario 30:
+2024-12-25 12:52:23 - INFO - num_students: 63
+2024-12-25 12:52:23 - INFO - num_professors: 31
+2024-12-25 12:52:23 - INFO - num_buildings: 1
+2024-12-25 12:52:23 - INFO - num_aulas: 4
+2024-12-25 12:52:23 - INFO - availability_rate: 0.545
+2024-12-25 12:52:23 - INFO - compatibility_rate: 0.44499999999999995
+2024-12-25 12:52:23 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-030.xlsx
+2024-12-25 12:52:23 - INFO - 
+Lote 6 completado
+2024-12-25 12:52:23 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-26-30
+2024-12-25 12:52:23 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-31-35
+2024-12-25 12:52:23 - INFO - 
+Procesando lote 7/20
+2024-12-25 12:52:23 - INFO - 
+Generando escenario 31:
+2024-12-25 12:52:23 - INFO - num_students: 65
+2024-12-25 12:52:23 - INFO - num_professors: 32
+2024-12-25 12:52:23 - INFO - num_buildings: 1
+2024-12-25 12:52:23 - INFO - num_aulas: 5
+2024-12-25 12:52:23 - INFO - availability_rate: 0.55
+2024-12-25 12:52:23 - INFO - compatibility_rate: 0.44999999999999996
+2024-12-25 12:52:24 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-031.xlsx
+2024-12-25 12:52:24 - INFO - 
+Generando escenario 32:
+2024-12-25 12:52:24 - INFO - num_students: 67
+2024-12-25 12:52:24 - INFO - num_professors: 33
+2024-12-25 12:52:24 - INFO - num_buildings: 1
+2024-12-25 12:52:24 - INFO - num_aulas: 5
+2024-12-25 12:52:24 - INFO - availability_rate: 0.555
+2024-12-25 12:52:24 - INFO - compatibility_rate: 0.45499999999999996
+2024-12-25 12:52:24 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-032.xlsx
+2024-12-25 12:52:24 - INFO - 
+Generando escenario 33:
+2024-12-25 12:52:24 - INFO - num_students: 69
+2024-12-25 12:52:24 - INFO - num_professors: 34
+2024-12-25 12:52:24 - INFO - num_buildings: 1
+2024-12-25 12:52:24 - INFO - num_aulas: 5
+2024-12-25 12:52:24 - INFO - availability_rate: 0.56
+2024-12-25 12:52:24 - INFO - compatibility_rate: 0.45999999999999996
+2024-12-25 12:52:24 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-033.xlsx
+2024-12-25 12:52:24 - INFO - 
+Generando escenario 34:
+2024-12-25 12:52:24 - INFO - num_students: 71
+2024-12-25 12:52:24 - INFO - num_professors: 35
+2024-12-25 12:52:24 - INFO - num_buildings: 1
+2024-12-25 12:52:24 - INFO - num_aulas: 5
+2024-12-25 12:52:24 - INFO - availability_rate: 0.5650000000000001
+2024-12-25 12:52:24 - INFO - compatibility_rate: 0.46499999999999997
+2024-12-25 12:52:24 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-034.xlsx
+2024-12-25 12:52:24 - INFO - 
+Generando escenario 35:
+2024-12-25 12:52:24 - INFO - num_students: 73
+2024-12-25 12:52:24 - INFO - num_professors: 36
+2024-12-25 12:52:24 - INFO - num_buildings: 1
+2024-12-25 12:52:24 - INFO - num_aulas: 5
+2024-12-25 12:52:24 - INFO - availability_rate: 0.5700000000000001
+2024-12-25 12:52:24 - INFO - compatibility_rate: 0.47
+2024-12-25 12:52:25 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-035.xlsx
+2024-12-25 12:52:25 - INFO - 
+Lote 7 completado
+2024-12-25 12:52:25 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-31-35
+2024-12-25 12:52:25 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-36-40
+2024-12-25 12:52:25 - INFO - 
+Procesando lote 8/20
+2024-12-25 12:52:25 - INFO - 
+Generando escenario 36:
+2024-12-25 12:52:25 - INFO - num_students: 75
+2024-12-25 12:52:25 - INFO - num_professors: 37
+2024-12-25 12:52:25 - INFO - num_buildings: 2
+2024-12-25 12:52:25 - INFO - num_aulas: 3
+2024-12-25 12:52:25 - INFO - availability_rate: 0.575
+2024-12-25 12:52:25 - INFO - compatibility_rate: 0.475
+2024-12-25 12:52:25 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-036.xlsx
+2024-12-25 12:52:25 - INFO - 
+Generando escenario 37:
+2024-12-25 12:52:25 - INFO - num_students: 77
+2024-12-25 12:52:25 - INFO - num_professors: 38
+2024-12-25 12:52:25 - INFO - num_buildings: 2
+2024-12-25 12:52:25 - INFO - num_aulas: 3
+2024-12-25 12:52:25 - INFO - availability_rate: 0.5800000000000001
+2024-12-25 12:52:25 - INFO - compatibility_rate: 0.48
+2024-12-25 12:52:26 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-037.xlsx
+2024-12-25 12:52:26 - INFO - 
+Generando escenario 38:
+2024-12-25 12:52:26 - INFO - num_students: 79
+2024-12-25 12:52:26 - INFO - num_professors: 39
+2024-12-25 12:52:26 - INFO - num_buildings: 2
+2024-12-25 12:52:26 - INFO - num_aulas: 3
+2024-12-25 12:52:26 - INFO - availability_rate: 0.585
+2024-12-25 12:52:26 - INFO - compatibility_rate: 0.485
+2024-12-25 12:52:26 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-038.xlsx
+2024-12-25 12:52:26 - INFO - 
+Generando escenario 39:
+2024-12-25 12:52:26 - INFO - num_students: 81
+2024-12-25 12:52:26 - INFO - num_professors: 40
+2024-12-25 12:52:26 - INFO - num_buildings: 2
+2024-12-25 12:52:26 - INFO - num_aulas: 3
+2024-12-25 12:52:26 - INFO - availability_rate: 0.5900000000000001
+2024-12-25 12:52:26 - INFO - compatibility_rate: 0.49
+2024-12-25 12:52:26 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-039.xlsx
+2024-12-25 12:52:26 - INFO - 
+Generando escenario 40:
+2024-12-25 12:52:26 - INFO - num_students: 83
+2024-12-25 12:52:26 - INFO - num_professors: 41
+2024-12-25 12:52:26 - INFO - num_buildings: 2
+2024-12-25 12:52:26 - INFO - num_aulas: 3
+2024-12-25 12:52:26 - INFO - availability_rate: 0.595
+2024-12-25 12:52:26 - INFO - compatibility_rate: 0.495
+2024-12-25 12:52:27 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-040.xlsx
+2024-12-25 12:52:27 - INFO - 
+Lote 8 completado
+2024-12-25 12:52:27 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-36-40
+2024-12-25 12:52:27 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-41-45
+2024-12-25 12:52:27 - INFO - 
+Procesando lote 9/20
+2024-12-25 12:52:27 - INFO - 
+Generando escenario 41:
+2024-12-25 12:52:27 - INFO - num_students: 85
+2024-12-25 12:52:27 - INFO - num_professors: 42
+2024-12-25 12:52:27 - INFO - num_buildings: 2
+2024-12-25 12:52:27 - INFO - num_aulas: 3
+2024-12-25 12:52:27 - INFO - availability_rate: 0.6000000000000001
+2024-12-25 12:52:27 - INFO - compatibility_rate: 0.5
+2024-12-25 12:52:27 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-041.xlsx
+2024-12-25 12:52:27 - INFO - 
+Generando escenario 42:
+2024-12-25 12:52:27 - INFO - num_students: 87
+2024-12-25 12:52:27 - INFO - num_professors: 43
+2024-12-25 12:52:27 - INFO - num_buildings: 2
+2024-12-25 12:52:27 - INFO - num_aulas: 3
+2024-12-25 12:52:27 - INFO - availability_rate: 0.605
+2024-12-25 12:52:27 - INFO - compatibility_rate: 0.505
+2024-12-25 12:52:28 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-042.xlsx
+2024-12-25 12:52:28 - INFO - 
+Generando escenario 43:
+2024-12-25 12:52:28 - INFO - num_students: 89
+2024-12-25 12:52:28 - INFO - num_professors: 44
+2024-12-25 12:52:28 - INFO - num_buildings: 2
+2024-12-25 12:52:28 - INFO - num_aulas: 3
+2024-12-25 12:52:28 - INFO - availability_rate: 0.61
+2024-12-25 12:52:28 - INFO - compatibility_rate: 0.51
+2024-12-25 12:52:28 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-043.xlsx
+2024-12-25 12:52:28 - INFO - 
+Generando escenario 44:
+2024-12-25 12:52:28 - INFO - num_students: 91
+2024-12-25 12:52:28 - INFO - num_professors: 45
+2024-12-25 12:52:28 - INFO - num_buildings: 2
+2024-12-25 12:52:28 - INFO - num_aulas: 3
+2024-12-25 12:52:28 - INFO - availability_rate: 0.615
+2024-12-25 12:52:28 - INFO - compatibility_rate: 0.515
+2024-12-25 12:52:29 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-044.xlsx
+2024-12-25 12:52:29 - INFO - 
+Generando escenario 45:
+2024-12-25 12:52:29 - INFO - num_students: 93
+2024-12-25 12:52:29 - INFO - num_professors: 46
+2024-12-25 12:52:29 - INFO - num_buildings: 2
+2024-12-25 12:52:29 - INFO - num_aulas: 3
+2024-12-25 12:52:29 - INFO - availability_rate: 0.62
+2024-12-25 12:52:29 - INFO - compatibility_rate: 0.52
+2024-12-25 12:52:29 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-045.xlsx
+2024-12-25 12:52:29 - INFO - 
+Lote 9 completado
+2024-12-25 12:52:29 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-41-45
+2024-12-25 12:52:29 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-46-50
+2024-12-25 12:52:29 - INFO - 
+Procesando lote 10/20
+2024-12-25 12:52:29 - INFO - 
+Generando escenario 46:
+2024-12-25 12:52:29 - INFO - num_students: 95
+2024-12-25 12:52:29 - INFO - num_professors: 47
+2024-12-25 12:52:29 - INFO - num_buildings: 2
+2024-12-25 12:52:29 - INFO - num_aulas: 3
+2024-12-25 12:52:29 - INFO - availability_rate: 0.625
+2024-12-25 12:52:29 - INFO - compatibility_rate: 0.525
+2024-12-25 12:52:30 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-046.xlsx
+2024-12-25 12:52:30 - INFO - 
+Generando escenario 47:
+2024-12-25 12:52:30 - INFO - num_students: 97
+2024-12-25 12:52:30 - INFO - num_professors: 48
+2024-12-25 12:52:30 - INFO - num_buildings: 2
+2024-12-25 12:52:30 - INFO - num_aulas: 4
+2024-12-25 12:52:30 - INFO - availability_rate: 0.63
+2024-12-25 12:52:30 - INFO - compatibility_rate: 0.53
+2024-12-25 12:52:30 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-047.xlsx
+2024-12-25 12:52:30 - INFO - 
+Generando escenario 48:
+2024-12-25 12:52:30 - INFO - num_students: 99
+2024-12-25 12:52:30 - INFO - num_professors: 49
+2024-12-25 12:52:30 - INFO - num_buildings: 2
+2024-12-25 12:52:30 - INFO - num_aulas: 4
+2024-12-25 12:52:30 - INFO - availability_rate: 0.635
+2024-12-25 12:52:30 - INFO - compatibility_rate: 0.5349999999999999
+2024-12-25 12:52:31 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-048.xlsx
+2024-12-25 12:52:31 - INFO - 
+Generando escenario 49:
+2024-12-25 12:52:31 - INFO - num_students: 101
+2024-12-25 12:52:31 - INFO - num_professors: 50
+2024-12-25 12:52:31 - INFO - num_buildings: 2
+2024-12-25 12:52:31 - INFO - num_aulas: 4
+2024-12-25 12:52:31 - INFO - availability_rate: 0.64
+2024-12-25 12:52:31 - INFO - compatibility_rate: 0.54
+2024-12-25 12:52:31 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-049.xlsx
+2024-12-25 12:52:31 - INFO - 
+Generando escenario 50:
+2024-12-25 12:52:31 - INFO - num_students: 103
+2024-12-25 12:52:31 - INFO - num_professors: 51
+2024-12-25 12:52:31 - INFO - num_buildings: 2
+2024-12-25 12:52:31 - INFO - num_aulas: 4
+2024-12-25 12:52:31 - INFO - availability_rate: 0.645
+2024-12-25 12:52:31 - INFO - compatibility_rate: 0.5449999999999999
+2024-12-25 12:52:32 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-050.xlsx
+2024-12-25 12:52:32 - INFO - 
+Lote 10 completado
+2024-12-25 12:52:32 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-46-50
+2024-12-25 12:52:32 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-51-55
+2024-12-25 12:52:32 - INFO - 
+Procesando lote 11/20
+2024-12-25 12:52:32 - INFO - 
+Generando escenario 51:
+2024-12-25 12:52:32 - INFO - num_students: 105
+2024-12-25 12:52:32 - INFO - num_professors: 52
+2024-12-25 12:52:32 - INFO - num_buildings: 2
+2024-12-25 12:52:32 - INFO - num_aulas: 4
+2024-12-25 12:52:32 - INFO - availability_rate: 0.65
+2024-12-25 12:52:32 - INFO - compatibility_rate: 0.55
+2024-12-25 12:52:32 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-051.xlsx
+2024-12-25 12:52:32 - INFO - 
+Generando escenario 52:
+2024-12-25 12:52:32 - INFO - num_students: 107
+2024-12-25 12:52:32 - INFO - num_professors: 53
+2024-12-25 12:52:32 - INFO - num_buildings: 2
+2024-12-25 12:52:32 - INFO - num_aulas: 4
+2024-12-25 12:52:32 - INFO - availability_rate: 0.655
+2024-12-25 12:52:32 - INFO - compatibility_rate: 0.5549999999999999
+2024-12-25 12:52:33 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-052.xlsx
+2024-12-25 12:52:33 - INFO - 
+Generando escenario 53:
+2024-12-25 12:52:33 - INFO - num_students: 109
+2024-12-25 12:52:33 - INFO - num_professors: 54
+2024-12-25 12:52:33 - INFO - num_buildings: 2
+2024-12-25 12:52:33 - INFO - num_aulas: 4
+2024-12-25 12:52:33 - INFO - availability_rate: 0.66
+2024-12-25 12:52:33 - INFO - compatibility_rate: 0.56
+2024-12-25 12:52:33 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-053.xlsx
+2024-12-25 12:52:33 - INFO - 
+Generando escenario 54:
+2024-12-25 12:52:33 - INFO - num_students: 111
+2024-12-25 12:52:34 - INFO - num_professors: 55
+2024-12-25 12:52:34 - INFO - num_buildings: 2
+2024-12-25 12:52:34 - INFO - num_aulas: 4
+2024-12-25 12:52:34 - INFO - availability_rate: 0.665
+2024-12-25 12:52:34 - INFO - compatibility_rate: 0.565
+2024-12-25 12:52:34 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-054.xlsx
+2024-12-25 12:52:34 - INFO - 
+Generando escenario 55:
+2024-12-25 12:52:34 - INFO - num_students: 113
+2024-12-25 12:52:34 - INFO - num_professors: 56
+2024-12-25 12:52:34 - INFO - num_buildings: 2
+2024-12-25 12:52:34 - INFO - num_aulas: 4
+2024-12-25 12:52:34 - INFO - availability_rate: 0.67
+2024-12-25 12:52:34 - INFO - compatibility_rate: 0.5700000000000001
+2024-12-25 12:52:35 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-055.xlsx
+2024-12-25 12:52:35 - INFO - 
+Lote 11 completado
+2024-12-25 12:52:35 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-51-55
+2024-12-25 12:52:35 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-56-60
+2024-12-25 12:52:35 - INFO - 
+Procesando lote 12/20
+2024-12-25 12:52:35 - INFO - 
+Generando escenario 56:
+2024-12-25 12:52:35 - INFO - num_students: 115
+2024-12-25 12:52:35 - INFO - num_professors: 57
+2024-12-25 12:52:35 - INFO - num_buildings: 2
+2024-12-25 12:52:35 - INFO - num_aulas: 4
+2024-12-25 12:52:35 - INFO - availability_rate: 0.675
+2024-12-25 12:52:35 - INFO - compatibility_rate: 0.575
+2024-12-25 12:52:36 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-056.xlsx
+2024-12-25 12:52:36 - INFO - 
+Generando escenario 57:
+2024-12-25 12:52:36 - INFO - num_students: 117
+2024-12-25 12:52:36 - INFO - num_professors: 58
+2024-12-25 12:52:36 - INFO - num_buildings: 2
+2024-12-25 12:52:36 - INFO - num_aulas: 4
+2024-12-25 12:52:36 - INFO - availability_rate: 0.68
+2024-12-25 12:52:36 - INFO - compatibility_rate: 0.5800000000000001
+2024-12-25 12:52:36 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-057.xlsx
+2024-12-25 12:52:36 - INFO - 
+Generando escenario 58:
+2024-12-25 12:52:36 - INFO - num_students: 119
+2024-12-25 12:52:36 - INFO - num_professors: 59
+2024-12-25 12:52:36 - INFO - num_buildings: 2
+2024-12-25 12:52:36 - INFO - num_aulas: 4
+2024-12-25 12:52:36 - INFO - availability_rate: 0.685
+2024-12-25 12:52:36 - INFO - compatibility_rate: 0.585
+2024-12-25 12:52:37 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-058.xlsx
+2024-12-25 12:52:37 - INFO - 
+Generando escenario 59:
+2024-12-25 12:52:37 - INFO - num_students: 121
+2024-12-25 12:52:37 - INFO - num_professors: 60
+2024-12-25 12:52:37 - INFO - num_buildings: 2
+2024-12-25 12:52:37 - INFO - num_aulas: 4
+2024-12-25 12:52:37 - INFO - availability_rate: 0.69
+2024-12-25 12:52:37 - INFO - compatibility_rate: 0.59
+2024-12-25 12:52:38 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-059.xlsx
+2024-12-25 12:52:38 - INFO - 
+Generando escenario 60:
+2024-12-25 12:52:38 - INFO - num_students: 123
+2024-12-25 12:52:38 - INFO - num_professors: 60
+2024-12-25 12:52:38 - INFO - num_buildings: 2
+2024-12-25 12:52:38 - INFO - num_aulas: 4
+2024-12-25 12:52:38 - INFO - availability_rate: 0.6950000000000001
+2024-12-25 12:52:38 - INFO - compatibility_rate: 0.595
+2024-12-25 12:52:38 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-060.xlsx
+2024-12-25 12:52:38 - INFO - 
+Lote 12 completado
+2024-12-25 12:52:38 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-56-60
+2024-12-25 12:52:38 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-61-65
+2024-12-25 12:52:38 - INFO - 
+Procesando lote 13/20
+2024-12-25 12:52:38 - INFO - 
+Generando escenario 61:
+2024-12-25 12:52:38 - INFO - num_students: 125
+2024-12-25 12:52:38 - INFO - num_professors: 60
+2024-12-25 12:52:38 - INFO - num_buildings: 2
+2024-12-25 12:52:38 - INFO - num_aulas: 4
+2024-12-25 12:52:38 - INFO - availability_rate: 0.7
+2024-12-25 12:52:38 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:39 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-061.xlsx
+2024-12-25 12:52:39 - INFO - 
+Generando escenario 62:
+2024-12-25 12:52:39 - INFO - num_students: 127
+2024-12-25 12:52:39 - INFO - num_professors: 60
+2024-12-25 12:52:39 - INFO - num_buildings: 2
+2024-12-25 12:52:39 - INFO - num_aulas: 4
+2024-12-25 12:52:39 - INFO - availability_rate: 0.7050000000000001
+2024-12-25 12:52:39 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:40 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-062.xlsx
+2024-12-25 12:52:40 - INFO - 
+Generando escenario 63:
+2024-12-25 12:52:40 - INFO - num_students: 129
+2024-12-25 12:52:40 - INFO - num_professors: 60
+2024-12-25 12:52:40 - INFO - num_buildings: 2
+2024-12-25 12:52:40 - INFO - num_aulas: 5
+2024-12-25 12:52:40 - INFO - availability_rate: 0.71
+2024-12-25 12:52:40 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:41 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-063.xlsx
+2024-12-25 12:52:41 - INFO - 
+Generando escenario 64:
+2024-12-25 12:52:41 - INFO - num_students: 131
+2024-12-25 12:52:41 - INFO - num_professors: 60
+2024-12-25 12:52:41 - INFO - num_buildings: 2
+2024-12-25 12:52:41 - INFO - num_aulas: 5
+2024-12-25 12:52:41 - INFO - availability_rate: 0.7150000000000001
+2024-12-25 12:52:41 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:42 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-064.xlsx
+2024-12-25 12:52:42 - INFO - 
+Generando escenario 65:
+2024-12-25 12:52:42 - INFO - num_students: 133
+2024-12-25 12:52:42 - INFO - num_professors: 60
+2024-12-25 12:52:42 - INFO - num_buildings: 2
+2024-12-25 12:52:42 - INFO - num_aulas: 5
+2024-12-25 12:52:42 - INFO - availability_rate: 0.72
+2024-12-25 12:52:42 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:43 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-065.xlsx
+2024-12-25 12:52:43 - INFO - 
+Lote 13 completado
+2024-12-25 12:52:43 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-61-65
+2024-12-25 12:52:43 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-66-70
+2024-12-25 12:52:43 - INFO - 
+Procesando lote 14/20
+2024-12-25 12:52:43 - INFO - 
+Generando escenario 66:
+2024-12-25 12:52:43 - INFO - num_students: 135
+2024-12-25 12:52:43 - INFO - num_professors: 60
+2024-12-25 12:52:43 - INFO - num_buildings: 2
+2024-12-25 12:52:43 - INFO - num_aulas: 5
+2024-12-25 12:52:43 - INFO - availability_rate: 0.7250000000000001
+2024-12-25 12:52:43 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:43 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-066.xlsx
+2024-12-25 12:52:43 - INFO - 
+Generando escenario 67:
+2024-12-25 12:52:43 - INFO - num_students: 137
+2024-12-25 12:52:43 - INFO - num_professors: 60
+2024-12-25 12:52:43 - INFO - num_buildings: 2
+2024-12-25 12:52:43 - INFO - num_aulas: 5
+2024-12-25 12:52:43 - INFO - availability_rate: 0.73
+2024-12-25 12:52:43 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:44 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-067.xlsx
+2024-12-25 12:52:44 - INFO - 
+Generando escenario 68:
+2024-12-25 12:52:44 - INFO - num_students: 139
+2024-12-25 12:52:44 - INFO - num_professors: 60
+2024-12-25 12:52:44 - INFO - num_buildings: 2
+2024-12-25 12:52:44 - INFO - num_aulas: 5
+2024-12-25 12:52:44 - INFO - availability_rate: 0.7350000000000001
+2024-12-25 12:52:44 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:45 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-068.xlsx
+2024-12-25 12:52:45 - INFO - 
+Generando escenario 69:
+2024-12-25 12:52:45 - INFO - num_students: 141
+2024-12-25 12:52:45 - INFO - num_professors: 60
+2024-12-25 12:52:45 - INFO - num_buildings: 2
+2024-12-25 12:52:45 - INFO - num_aulas: 5
+2024-12-25 12:52:45 - INFO - availability_rate: 0.74
+2024-12-25 12:52:45 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:46 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-069.xlsx
+2024-12-25 12:52:46 - INFO - 
+Generando escenario 70:
+2024-12-25 12:52:46 - INFO - num_students: 143
+2024-12-25 12:52:46 - INFO - num_professors: 60
+2024-12-25 12:52:46 - INFO - num_buildings: 2
+2024-12-25 12:52:46 - INFO - num_aulas: 5
+2024-12-25 12:52:46 - INFO - availability_rate: 0.745
+2024-12-25 12:52:46 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:47 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-070.xlsx
+2024-12-25 12:52:47 - INFO - 
+Lote 14 completado
+2024-12-25 12:52:47 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-66-70
+2024-12-25 12:52:47 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-71-75
+2024-12-25 12:52:47 - INFO - 
+Procesando lote 15/20
+2024-12-25 12:52:47 - INFO - 
+Generando escenario 71:
+2024-12-25 12:52:47 - INFO - num_students: 145
+2024-12-25 12:52:47 - INFO - num_professors: 60
+2024-12-25 12:52:47 - INFO - num_buildings: 3
+2024-12-25 12:52:47 - INFO - num_aulas: 4
+2024-12-25 12:52:47 - INFO - availability_rate: 0.75
+2024-12-25 12:52:47 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:48 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-071.xlsx
+2024-12-25 12:52:48 - INFO - 
+Generando escenario 72:
+2024-12-25 12:52:48 - INFO - num_students: 147
+2024-12-25 12:52:48 - INFO - num_professors: 60
+2024-12-25 12:52:48 - INFO - num_buildings: 3
+2024-12-25 12:52:48 - INFO - num_aulas: 4
+2024-12-25 12:52:48 - INFO - availability_rate: 0.755
+2024-12-25 12:52:48 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:49 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-072.xlsx
+2024-12-25 12:52:49 - INFO - 
+Generando escenario 73:
+2024-12-25 12:52:49 - INFO - num_students: 149
+2024-12-25 12:52:49 - INFO - num_professors: 60
+2024-12-25 12:52:49 - INFO - num_buildings: 3
+2024-12-25 12:52:49 - INFO - num_aulas: 4
+2024-12-25 12:52:49 - INFO - availability_rate: 0.76
+2024-12-25 12:52:49 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:50 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-073.xlsx
+2024-12-25 12:52:50 - INFO - 
+Generando escenario 74:
+2024-12-25 12:52:50 - INFO - num_students: 151
+2024-12-25 12:52:50 - INFO - num_professors: 60
+2024-12-25 12:52:50 - INFO - num_buildings: 3
+2024-12-25 12:52:50 - INFO - num_aulas: 4
+2024-12-25 12:52:50 - INFO - availability_rate: 0.765
+2024-12-25 12:52:50 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:51 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-074.xlsx
+2024-12-25 12:52:51 - INFO - 
+Generando escenario 75:
+2024-12-25 12:52:51 - INFO - num_students: 153
+2024-12-25 12:52:51 - INFO - num_professors: 60
+2024-12-25 12:52:51 - INFO - num_buildings: 3
+2024-12-25 12:52:51 - INFO - num_aulas: 4
+2024-12-25 12:52:51 - INFO - availability_rate: 0.77
+2024-12-25 12:52:51 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:52 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-075.xlsx
+2024-12-25 12:52:52 - INFO - 
+Lote 15 completado
+2024-12-25 12:52:52 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-71-75
+2024-12-25 12:52:52 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-76-80
+2024-12-25 12:52:52 - INFO - 
+Procesando lote 16/20
+2024-12-25 12:52:52 - INFO - 
+Generando escenario 76:
+2024-12-25 12:52:52 - INFO - num_students: 155
+2024-12-25 12:52:52 - INFO - num_professors: 60
+2024-12-25 12:52:52 - INFO - num_buildings: 3
+2024-12-25 12:52:52 - INFO - num_aulas: 4
+2024-12-25 12:52:52 - INFO - availability_rate: 0.775
+2024-12-25 12:52:52 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:53 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-076.xlsx
+2024-12-25 12:52:53 - INFO - 
+Generando escenario 77:
+2024-12-25 12:52:53 - INFO - num_students: 157
+2024-12-25 12:52:53 - INFO - num_professors: 60
+2024-12-25 12:52:53 - INFO - num_buildings: 3
+2024-12-25 12:52:53 - INFO - num_aulas: 4
+2024-12-25 12:52:53 - INFO - availability_rate: 0.78
+2024-12-25 12:52:53 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:54 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-077.xlsx
+2024-12-25 12:52:54 - INFO - 
+Generando escenario 78:
+2024-12-25 12:52:54 - INFO - num_students: 159
+2024-12-25 12:52:54 - INFO - num_professors: 60
+2024-12-25 12:52:54 - INFO - num_buildings: 3
+2024-12-25 12:52:54 - INFO - num_aulas: 4
+2024-12-25 12:52:54 - INFO - availability_rate: 0.785
+2024-12-25 12:52:54 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:55 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-078.xlsx
+2024-12-25 12:52:55 - INFO - 
+Generando escenario 79:
+2024-12-25 12:52:55 - INFO - num_students: 161
+2024-12-25 12:52:55 - INFO - num_professors: 60
+2024-12-25 12:52:55 - INFO - num_buildings: 3
+2024-12-25 12:52:55 - INFO - num_aulas: 4
+2024-12-25 12:52:55 - INFO - availability_rate: 0.79
+2024-12-25 12:52:55 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:57 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-079.xlsx
+2024-12-25 12:52:57 - INFO - 
+Generando escenario 80:
+2024-12-25 12:52:57 - INFO - num_students: 163
+2024-12-25 12:52:57 - INFO - num_professors: 60
+2024-12-25 12:52:57 - INFO - num_buildings: 3
+2024-12-25 12:52:57 - INFO - num_aulas: 4
+2024-12-25 12:52:57 - INFO - availability_rate: 0.795
+2024-12-25 12:52:57 - INFO - compatibility_rate: 0.6
+2024-12-25 12:52:58 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-080.xlsx
+2024-12-25 12:52:58 - INFO - 
+Lote 16 completado
+2024-12-25 12:52:58 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-76-80
+2024-12-25 12:52:58 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-81-85
+2024-12-25 12:52:58 - INFO - 
+Procesando lote 17/20
+2024-12-25 12:52:58 - INFO - 
+Generando escenario 81:
+2024-12-25 12:52:58 - INFO - num_students: 165
+2024-12-25 12:52:58 - INFO - num_professors: 60
+2024-12-25 12:52:58 - INFO - num_buildings: 3
+2024-12-25 12:52:58 - INFO - num_aulas: 4
+2024-12-25 12:52:58 - INFO - availability_rate: 0.8
+2024-12-25 12:52:58 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:00 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-081.xlsx
+2024-12-25 12:53:00 - INFO - 
+Generando escenario 82:
+2024-12-25 12:53:00 - INFO - num_students: 167
+2024-12-25 12:53:00 - INFO - num_professors: 60
+2024-12-25 12:53:00 - INFO - num_buildings: 3
+2024-12-25 12:53:00 - INFO - num_aulas: 4
+2024-12-25 12:53:00 - INFO - availability_rate: 0.8
+2024-12-25 12:53:00 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:01 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-082.xlsx
+2024-12-25 12:53:01 - INFO - 
+Generando escenario 83:
+2024-12-25 12:53:01 - INFO - num_students: 169
+2024-12-25 12:53:01 - INFO - num_professors: 60
+2024-12-25 12:53:01 - INFO - num_buildings: 3
+2024-12-25 12:53:01 - INFO - num_aulas: 4
+2024-12-25 12:53:01 - INFO - availability_rate: 0.8
+2024-12-25 12:53:01 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:02 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-083.xlsx
+2024-12-25 12:53:02 - INFO - 
+Generando escenario 84:
+2024-12-25 12:53:02 - INFO - num_students: 171
+2024-12-25 12:53:02 - INFO - num_professors: 60
+2024-12-25 12:53:02 - INFO - num_buildings: 3
+2024-12-25 12:53:02 - INFO - num_aulas: 4
+2024-12-25 12:53:02 - INFO - availability_rate: 0.8
+2024-12-25 12:53:02 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:04 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-084.xlsx
+2024-12-25 12:53:04 - INFO - 
+Generando escenario 85:
+2024-12-25 12:53:04 - INFO - num_students: 173
+2024-12-25 12:53:04 - INFO - num_professors: 60
+2024-12-25 12:53:04 - INFO - num_buildings: 3
+2024-12-25 12:53:04 - INFO - num_aulas: 4
+2024-12-25 12:53:04 - INFO - availability_rate: 0.8
+2024-12-25 12:53:04 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:05 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-085.xlsx
+2024-12-25 12:53:05 - INFO - 
+Lote 17 completado
+2024-12-25 12:53:05 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-81-85
+2024-12-25 12:53:05 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-86-90
+2024-12-25 12:53:05 - INFO - 
+Procesando lote 18/20
+2024-12-25 12:53:05 - INFO - 
+Generando escenario 86:
+2024-12-25 12:53:05 - INFO - num_students: 175
+2024-12-25 12:53:05 - INFO - num_professors: 60
+2024-12-25 12:53:05 - INFO - num_buildings: 3
+2024-12-25 12:53:05 - INFO - num_aulas: 4
+2024-12-25 12:53:05 - INFO - availability_rate: 0.8
+2024-12-25 12:53:05 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:06 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-086.xlsx
+2024-12-25 12:53:06 - INFO - 
+Generando escenario 87:
+2024-12-25 12:53:06 - INFO - num_students: 177
+2024-12-25 12:53:06 - INFO - num_professors: 60
+2024-12-25 12:53:06 - INFO - num_buildings: 3
+2024-12-25 12:53:06 - INFO - num_aulas: 4
+2024-12-25 12:53:06 - INFO - availability_rate: 0.8
+2024-12-25 12:53:06 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:07 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-087.xlsx
+2024-12-25 12:53:07 - INFO - 
+Generando escenario 88:
+2024-12-25 12:53:07 - INFO - num_students: 179
+2024-12-25 12:53:07 - INFO - num_professors: 60
+2024-12-25 12:53:07 - INFO - num_buildings: 3
+2024-12-25 12:53:07 - INFO - num_aulas: 4
+2024-12-25 12:53:07 - INFO - availability_rate: 0.8
+2024-12-25 12:53:07 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:08 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-088.xlsx
+2024-12-25 12:53:08 - INFO - 
+Generando escenario 89:
+2024-12-25 12:53:08 - INFO - num_students: 181
+2024-12-25 12:53:08 - INFO - num_professors: 60
+2024-12-25 12:53:08 - INFO - num_buildings: 3
+2024-12-25 12:53:08 - INFO - num_aulas: 4
+2024-12-25 12:53:08 - INFO - availability_rate: 0.8
+2024-12-25 12:53:08 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:10 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-089.xlsx
+2024-12-25 12:53:10 - INFO - 
+Generando escenario 90:
+2024-12-25 12:53:10 - INFO - num_students: 183
+2024-12-25 12:53:10 - INFO - num_professors: 60
+2024-12-25 12:53:10 - INFO - num_buildings: 3
+2024-12-25 12:53:10 - INFO - num_aulas: 4
+2024-12-25 12:53:10 - INFO - availability_rate: 0.8
+2024-12-25 12:53:10 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:11 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-090.xlsx
+2024-12-25 12:53:11 - INFO - 
+Lote 18 completado
+2024-12-25 12:53:11 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-86-90
+2024-12-25 12:53:11 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-91-95
+2024-12-25 12:53:11 - INFO - 
+Procesando lote 19/20
+2024-12-25 12:53:11 - INFO - 
+Generando escenario 91:
+2024-12-25 12:53:11 - INFO - num_students: 185
+2024-12-25 12:53:11 - INFO - num_professors: 60
+2024-12-25 12:53:11 - INFO - num_buildings: 3
+2024-12-25 12:53:11 - INFO - num_aulas: 4
+2024-12-25 12:53:11 - INFO - availability_rate: 0.8
+2024-12-25 12:53:11 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:12 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-091.xlsx
+2024-12-25 12:53:12 - INFO - 
+Generando escenario 92:
+2024-12-25 12:53:12 - INFO - num_students: 187
+2024-12-25 12:53:12 - INFO - num_professors: 60
+2024-12-25 12:53:12 - INFO - num_buildings: 3
+2024-12-25 12:53:12 - INFO - num_aulas: 4
+2024-12-25 12:53:12 - INFO - availability_rate: 0.8
+2024-12-25 12:53:12 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:13 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-092.xlsx
+2024-12-25 12:53:13 - INFO - 
+Generando escenario 93:
+2024-12-25 12:53:13 - INFO - num_students: 189
+2024-12-25 12:53:13 - INFO - num_professors: 60
+2024-12-25 12:53:13 - INFO - num_buildings: 3
+2024-12-25 12:53:13 - INFO - num_aulas: 4
+2024-12-25 12:53:13 - INFO - availability_rate: 0.8
+2024-12-25 12:53:13 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:15 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-093.xlsx
+2024-12-25 12:53:15 - INFO - 
+Generando escenario 94:
+2024-12-25 12:53:15 - INFO - num_students: 191
+2024-12-25 12:53:15 - INFO - num_professors: 60
+2024-12-25 12:53:15 - INFO - num_buildings: 3
+2024-12-25 12:53:15 - INFO - num_aulas: 4
+2024-12-25 12:53:15 - INFO - availability_rate: 0.8
+2024-12-25 12:53:15 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:16 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-094.xlsx
+2024-12-25 12:53:16 - INFO - 
+Generando escenario 95:
+2024-12-25 12:53:16 - INFO - num_students: 193
+2024-12-25 12:53:16 - INFO - num_professors: 60
+2024-12-25 12:53:16 - INFO - num_buildings: 3
+2024-12-25 12:53:16 - INFO - num_aulas: 5
+2024-12-25 12:53:16 - INFO - availability_rate: 0.8
+2024-12-25 12:53:16 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:17 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-095.xlsx
+2024-12-25 12:53:17 - INFO - 
+Lote 19 completado
+2024-12-25 12:53:17 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-91-95
+2024-12-25 12:53:17 - INFO - Iniciando generación de datos sintéticos en datos_sinteticos\20241225-125217-96-100
+2024-12-25 12:53:17 - INFO - 
+Procesando lote 20/20
+2024-12-25 12:53:17 - INFO - 
+Generando escenario 96:
+2024-12-25 12:53:17 - INFO - num_students: 195
+2024-12-25 12:53:17 - INFO - num_professors: 60
+2024-12-25 12:53:17 - INFO - num_buildings: 3
+2024-12-25 12:53:17 - INFO - num_aulas: 5
+2024-12-25 12:53:17 - INFO - availability_rate: 0.8
+2024-12-25 12:53:17 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:19 - INFO - Generado archivo 1/5 del lote actual: DatosGestionTribunales-096.xlsx
+2024-12-25 12:53:19 - INFO - 
+Generando escenario 97:
+2024-12-25 12:53:19 - INFO - num_students: 197
+2024-12-25 12:53:19 - INFO - num_professors: 60
+2024-12-25 12:53:19 - INFO - num_buildings: 3
+2024-12-25 12:53:19 - INFO - num_aulas: 5
+2024-12-25 12:53:19 - INFO - availability_rate: 0.8
+2024-12-25 12:53:19 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:20 - INFO - Generado archivo 2/5 del lote actual: DatosGestionTribunales-097.xlsx
+2024-12-25 12:53:20 - INFO - 
+Generando escenario 98:
+2024-12-25 12:53:20 - INFO - num_students: 199
+2024-12-25 12:53:20 - INFO - num_professors: 60
+2024-12-25 12:53:20 - INFO - num_buildings: 3
+2024-12-25 12:53:20 - INFO - num_aulas: 5
+2024-12-25 12:53:20 - INFO - availability_rate: 0.8
+2024-12-25 12:53:20 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:22 - INFO - Generado archivo 3/5 del lote actual: DatosGestionTribunales-098.xlsx
+2024-12-25 12:53:22 - INFO - 
+Generando escenario 99:
+2024-12-25 12:53:22 - INFO - num_students: 200
+2024-12-25 12:53:22 - INFO - num_professors: 60
+2024-12-25 12:53:22 - INFO - num_buildings: 3
+2024-12-25 12:53:22 - INFO - num_aulas: 5
+2024-12-25 12:53:22 - INFO - availability_rate: 0.8
+2024-12-25 12:53:22 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:23 - INFO - Generado archivo 4/5 del lote actual: DatosGestionTribunales-099.xlsx
+2024-12-25 12:53:23 - INFO - 
+Generando escenario 100:
+2024-12-25 12:53:23 - INFO - num_students: 200
+2024-12-25 12:53:23 - INFO - num_professors: 60
+2024-12-25 12:53:23 - INFO - num_buildings: 3
+2024-12-25 12:53:23 - INFO - num_aulas: 5
+2024-12-25 12:53:23 - INFO - availability_rate: 0.8
+2024-12-25 12:53:23 - INFO - compatibility_rate: 0.6
+2024-12-25 12:53:25 - INFO - Generado archivo 5/5 del lote actual: DatosGestionTribunales-100.xlsx
+2024-12-25 12:53:25 - INFO - 
+Lote 20 completado
+2024-12-25 12:53:25 - INFO - Archivos guardados en: datos_sinteticos\20241225-125217-96-100
+
+Generación de datos completada
+Total de archivos generados: 100
+Los archivos se han organizado en 20 carpetas en: datos_sinteticos
