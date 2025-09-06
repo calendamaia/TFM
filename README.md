@@ -4,6 +4,7 @@
 **Universidad:** Universidad Isabel I  
 **Máster:** Análisis Inteligente de Datos (Big Data)
 
+
 ## Descripción
 
 Sistema de optimización para la asignación de tribunales de Trabajo Fin de Máster (TFM) mediante algoritmos evolutivos. El sistema compara el rendimiento de dos algoritmos de optimización: Algoritmo Genético (GA) y Harmony Search (HS) aplicados al problema multicriterio de asignación de tribunales académicos.
@@ -36,6 +37,10 @@ python sintetic_visualization.py
 ```
 Script complementario para analizar y visualizar resultados de ejecuciones específicas, permitiendo seleccionar carpetas de datos para análisis detallado.
 
+## Datos de Prueba Incluidos
+
+El repositorio incluye datos de prueba ya generados en la carpeta `datos_sinteticos/20241225-125217-1-5` que contiene 5 ficheros Excel de ejemplo (`DatosGestionTribunales-001.xlsx` a `DatosGestionTribunales-005.xlsx`). Estos datos permiten ejecutar directamente los algoritmos de optimización sin necesidad de generar nuevos datos sintéticos.
+
 ## Estructura de Datos
 
 - **Entrada:** Archivos Excel con formato `DatosGestionTribunales-xxx.xlsx` (donde xxx va de 001 a 100)
@@ -51,4 +56,4 @@ Script complementario para analizar y visualizar resultados de ejecuciones espec
 
 - La ejecución completa del sistema puede requerir tiempo considerable debido a la naturaleza computacionalmente intensiva de los algoritmos de optimización
 - Se recomienda ejecutar los scripts en el orden indicado para garantizar la disponibilidad de datos de entrada
-- El sistema incluye logging detallado para monitorización del progreso y detección de errores (por consola)
+- El sistema incluye logging detallado para monitorización del progreso y detección de errores
