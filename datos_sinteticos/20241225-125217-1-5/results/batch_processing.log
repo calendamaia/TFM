@@ -1,0 +1,42 @@
+2024-12-25 12:53:55 - INFO - Iniciando procesamiento en: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5
+2024-12-25 12:53:55 - INFO - Resultados se guardarán en: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results
+2024-12-25 12:53:55 - INFO - Iniciando procesamiento con límites de tiempo:
+2024-12-25 12:53:55 - INFO - - 5 minutos si se encuentra solución válida
+2024-12-25 12:53:55 - INFO - - 15 minutos si no se encuentra solución
+2024-12-25 12:53:55 - INFO - Archivo log.txt leído correctamente con codificación cp1252
+2024-12-25 12:53:55 - INFO - Encontrados 5 archivos para procesar
+2024-12-25 12:53:55 - INFO - Procesando archivo 1/5: DatosGestionTribunales-001.xlsx
+2024-12-25 12:53:55 - INFO - Ejecutando algoritmos para DatosGestionTribunales-001.xlsx
+2024-12-25 12:54:02 - INFO - Solución GA exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-001\solucion_GA_DatosGestionTribunales-001.xlsx
+2024-12-25 12:54:02 - INFO - Solución HS exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-001\solucion_HS_DatosGestionTribunales-001.xlsx
+2024-12-25 12:54:06 - INFO - Gráficas generadas exitosamente
+2024-12-25 12:54:06 - INFO - Procesamiento completado para DatosGestionTribunales-001.xlsx
+2024-12-25 12:54:06 - INFO - Procesando archivo 2/5: DatosGestionTribunales-002.xlsx
+2024-12-25 12:54:06 - INFO - Ejecutando algoritmos para DatosGestionTribunales-002.xlsx
+2024-12-25 12:54:19 - INFO - Solución GA exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-002\solucion_GA_DatosGestionTribunales-002.xlsx
+2024-12-25 12:54:19 - INFO - Solución HS exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-002\solucion_HS_DatosGestionTribunales-002.xlsx
+2024-12-25 12:54:24 - INFO - Gráficas generadas exitosamente
+2024-12-25 12:54:24 - INFO - Procesamiento completado para DatosGestionTribunales-002.xlsx
+2024-12-25 12:54:24 - INFO - Procesando archivo 3/5: DatosGestionTribunales-003.xlsx
+2024-12-25 12:54:24 - INFO - Ejecutando algoritmos para DatosGestionTribunales-003.xlsx
+2024-12-25 12:54:34 - INFO - Solución GA exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-003\solucion_GA_DatosGestionTribunales-003.xlsx
+2024-12-25 12:54:35 - INFO - Solución HS exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-003\solucion_HS_DatosGestionTribunales-003.xlsx
+2024-12-25 12:54:40 - INFO - Gráficas generadas exitosamente
+2024-12-25 12:54:40 - INFO - Procesamiento completado para DatosGestionTribunales-003.xlsx
+2024-12-25 12:54:40 - INFO - Procesando archivo 4/5: DatosGestionTribunales-004.xlsx
+2024-12-25 12:54:40 - INFO - Ejecutando algoritmos para DatosGestionTribunales-004.xlsx
+2024-12-25 12:54:58 - INFO - Solución GA exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-004\solucion_GA_DatosGestionTribunales-004.xlsx
+2024-12-25 12:54:59 - INFO - Solución HS exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-004\solucion_HS_DatosGestionTribunales-004.xlsx
+2024-12-25 12:55:04 - INFO - Gráficas generadas exitosamente
+2024-12-25 12:55:04 - INFO - Procesamiento completado para DatosGestionTribunales-004.xlsx
+2024-12-25 12:55:04 - INFO - Procesando archivo 5/5: DatosGestionTribunales-005.xlsx
+2024-12-25 12:55:04 - INFO - Ejecutando algoritmos para DatosGestionTribunales-005.xlsx
+2024-12-25 12:55:52 - INFO - Solución GA exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-005\solucion_GA_DatosGestionTribunales-005.xlsx
+2024-12-25 12:55:54 - INFO - Solución HS exportada a: C:\Users\USUARIO\Documents\tfm\datos_sinteticos\20241225-125217-1-5\results\DatosGestionTribunales-005\solucion_HS_DatosGestionTribunales-005.xlsx
+2024-12-25 12:55:58 - INFO - Gráficas generadas exitosamente
+2024-12-25 12:55:58 - INFO - Procesamiento completado para DatosGestionTribunales-005.xlsx
+2024-12-25 12:55:58 - INFO - 
+Procesamiento completado:
+2024-12-25 12:55:58 - INFO - Total archivos: 5
+2024-12-25 12:55:58 - INFO - Procesados con éxito: 5
+2024-12-25 12:55:58 - INFO - Fallidos: 0
